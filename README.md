@@ -23,7 +23,7 @@ cd $PAEDNet
 python ./faster_rcnn/test_net.py
 ```
 The download data can be put into `./data/panoramic/`
-The evaluation model was trained WHU panoramic dataset with 30000 iteration steps.
+The evaluation model was trained WHU panoramic dataset with 30000 iteration steps, which can be downloaded at https://pan.baidu.com/s/1j4-WmYAYLEbV0TyICmfPEQ
 
 
 
